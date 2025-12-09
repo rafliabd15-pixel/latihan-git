@@ -1,6 +1,6 @@
 // Isi Hello.java
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("selamat siang");
+        System.out.println("selamat sore");
     }
 }
